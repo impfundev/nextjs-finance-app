@@ -1,5 +1,14 @@
-## Next.js App Router Course - Starter
+# Next.js Finance Web App
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+simplified version of the financial dashboard that has:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+- A public home page.
+- A login page.
+- Dashboard pages that are protected by authentication.
+- The ability for users to add, edit, and delete invoices.
+
+## System requirements
+
+- Node.js 18 or later
+- Operating systems: macOS, Windows (including WSL), or Linux.
+- Next.js 13 (App Router) or later
